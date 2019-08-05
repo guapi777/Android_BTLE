@@ -1,0 +1,4 @@
+#Mon Jul 22 16:56:22 EDT 2019
+base.0=E\:\\Android Code\\Android_BTLE\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

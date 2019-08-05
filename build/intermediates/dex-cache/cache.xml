@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jones/workspace_mobileapp/Arduino_BTLE/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="66f070420d30623b85582131d5c523bb58ef0406">
+        <dex dex="/Users/jones/workspace_mobileapp/Arduino_BTLE/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1d27e560387b4926ec9d5e390b397debf6424e68/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jones/workspace_mobileapp/Arduino_BTLE/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="e796abbbe19252a12524fa904fa29012ece9769c">
+        <dex dex="/Users/jones/workspace_mobileapp/Arduino_BTLE/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_012e2c9c0cdc7ff4f4f81393c4c6d55326add557/classes.dex" />
+    </item>
+
+</items>
